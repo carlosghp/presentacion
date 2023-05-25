@@ -1,0 +1,13 @@
+package com.mycompany.presentacion;
+
+public class Presentacion {
+     public static void author64415() {
+          System.out.println("Nombre: Carlos Gael Hilera Pacheco");
+          System.out.println("Matricula: 64415");
+          System.out.println("Correo: al064415@uacam.mx");
+           
+        }
+    public static void main(String[] args) {
+       author64415();
+    }
+}
